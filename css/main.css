@@ -17,3 +17,15 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+body {
+  font-family: 'Graduate', cursive;
+}
+h1 {
+  font-size: 4em;
+  color: #f15623;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: #2CBCEE;
+}

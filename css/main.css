@@ -11,21 +11,75 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  background-color: #fff;
+  background-color: #D9F1FD;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 body {
   font-family: 'Graduate', cursive;
 }
+
 h1 {
   font-size: 4em;
   color: #f15623;
   text-align: center;
 }
+
 h2 {
   text-align: center;
   color: #2CBCEE;
+}
+
+.masthead {
+  margin: 1rem 0 1rem 0;
+}
+
+
+
+hr {
+  height: 12px;
+  background-color: #4167B1;
+  border: 0;
+}
+
+.unit {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.wide {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.bubble {
+  margin-bottom: 2em;
+}
+.grid {
+  position: relative;
+}
+.prevent-1 {
+  position: absolute;
+  bottom: 40px;
+  left: 150px;
+  fill: hidden;
+}
+.large {
+  display: none;
+}
+
+.whistle:hover .prevent-1{
+  visibility: visible;
+}
+@media only screen and (min-width: 650px) {
+.mobile {
+  display: none;
+}
+.large {
+  display: block;;
+}
+
 }

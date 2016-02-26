@@ -20,54 +20,55 @@ html {
 body {
   font-family: "Graduate", cursive;
 }
+
 .st0 {
-fill:#F1FAFE;
+  fill: #f1fafe;
 }
 
 .st1 {
-fill:#E62F25;
+  fill: #e62f25;
 }
 
 .st2 {
-fill:#EDB0A4;
+  fill: #edb0a4;
 }
 
 .st3 {
-fill:#2CBCEE;
+  fill: #2cbcee;
 }
 
 .st4 {
-  fill:#FFFFFF;
-  }
+  fill: #fff;
+}
 
 .st5 {
-fill:#F15623;
+  fill: #f15623;
 }
 
 .st6 {
-fill:#5E2E21;
+  fill: #5e2e21;
 }
 
 .st7 {
-  fill:#4167B1;
+  fill: #4167b1;
 }
 
 .st8 {
-  fill:#4167B1;
-  stroke:#4167B1;
-  stroke-width:2;
-  stroke-miterlimit:10;
+  fill: #4167b1;
+  stroke: #4167b1;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
 }
 
 .st9 {
-  fill:#FFFFFF;
-  stroke:#2CBCEE;
-  stroke-width:3;
-  stroke-miterlimit:10;
+  fill: #fff;
+  stroke: #2cbcee;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
 }
 
 .st10 {
-  fill:none;
+  fill: none;
 }
 
 .st11 {
@@ -75,11 +76,11 @@ fill:#5E2E21;
 }
 
 .st12 {
-  font-size:19.691px;
+  font-size: 19.691px;
 }
 
 .st13 {
-  fill:#1D2554;
+  fill: #1d2554;
 }
 
 .st14 {
@@ -87,24 +88,24 @@ fill:#5E2E21;
 }
 
 .st15 {
-  font-size:12.4365px;
+  font-size: 12.4365px;
 }
 
 .st16 {
-  fill:#8A5143;
+  fill: #8a5143;
 }
 
 .st17 {
-  fill:#CC2036;
-  stroke:#CC2036;
-  stroke-miterlimit:10;
-  stroke-dasharray:1,1;
+  fill: #cc2036;
+  stroke: #cc2036;
+  stroke-miterlimit: 10;
+  stroke-dasharray: 1, 1;
 }
 
 .st18 {
-  fill:#CC2036;
-  stroke:#4167B1;
-  stroke-miterlimit:10;
+  fill: #cc2036;
+  stroke: #4167b1;
+  stroke-miterlimit: 10;
 }
 
 h1 {

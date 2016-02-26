@@ -63,17 +63,54 @@ hr {
 }
 .prevent-1 {
   position: absolute;
-  bottom: 40px;
-  left: 150px;
-  fill: hidden;
+  bottom: 53px;
+  left: 50%;
+  display: none;
 }
+
+.prevent-2 {
+  position: absolute;
+  bottom: 53px;
+  left: 50%;
+  display: none;
+}
+
+.prevent-3 {
+  position: absolute;
+  bottom: 53px;
+  left: 50%;
+  display: none;
+}
+
+.prevent-4 {
+  position: absolute;
+  bottom: 53px;
+  left: 50%;
+  display: none;
+}
+
+.prevent-5 {
+  position: absolute;
+  bottom: 53px;
+  left: 50%;
+  display: none;
+}
+
+.prevent-6 {
+  position: absolute;
+  bottom: 53px;
+  left: 50%;
+  display: none;
+}
+
 .large {
   display: none;
 }
 
 .whistle:hover .prevent-1{
-  visibility: visible;
+  display: inherit;
 }
+
 @media only screen and (min-width: 650px) {
 .mobile {
   display: none;

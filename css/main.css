@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  font-family: 'Graduate', cursive;
+  font-family: "Graduate", cursive;
 }
 
 h1 {
@@ -55,9 +55,11 @@ hr {
 .bubble {
   margin-bottom: 2em;
 }
+
 .grid {
   position: relative;
 }
+
 .prevent-1 {
   position: absolute;
   bottom: 53px;
@@ -104,7 +106,7 @@ hr {
   display: none;
 }
 
-.whistle:hover .prevent-1{
+.whistle:hover .prevent-1 {
   display: inherit;
 }
 
